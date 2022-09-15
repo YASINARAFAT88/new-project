@@ -149,7 +149,10 @@ span {
     color: #ff4321;
 }
 
-/* Simple Img Gallary */
+/*----------------------
+    Simple Img Gallary
+--------------------------*/
+
 .gallery-title {
     text-align: center;
     color: var(--secondary-color);
@@ -213,7 +216,10 @@ span {
     cursor: pointer;
 }
 
-/* Feedback Part */
+/*---------------------
+     Feedback Part
+--------------------- */
+
 .container {
     max-width: 1200px;
     width: 100%;
